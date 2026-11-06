@@ -1,0 +1,42 @@
+# Arena Animation, Indira Nagar — install at the domain's public_html root.
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+
+# Normalize the confirmed public domain. Preview hosts stay on their own URL.
+RewriteCond %{REQUEST_METHOD} ^(?:GET|HEAD)$
+RewriteCond %{HTTP_HOST} ^(?:www\.)?arenalucknow\.in$ [NC]
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} ^www\.arenalucknow\.in$ [NC]
+RewriteRule ^ https://arenalucknow.in%{REQUEST_URI} [R=301,L,NE]
+
+# Keep index.html aliases out of search results; internal directory indexes are unaffected.
+RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html(?:[?\s]) [NC]
+RewriteRule ^(.*)index\.html$ /$1 [R=301,L,NE]
+
+# Same endpoint the React form uses; no Node server is needed on this host.
+RewriteRule ^api/enquiry/?$ api/enquiry.php [END]
+RewriteRule ^api/scholarship/?$ api/scholarship.php [END]
+
+RewriteCond %{HTTP_HOST} !^arenalucknow\.in$ [NC]
+RewriteRule ^robots\.txt$ robots-preview.txt [END]
+
+<IfModule mod_headers.c>
+    # On the public domain HTML is indexable; temporary domains remain noindex.
+    <IfModule mod_setenvif.c>
+        SetEnvIfNoCase Host "^(www\.)?arenalucknow\.in$" arena_public=1
+    </IfModule>
+    Header always set X-Robots-Tag "noindex, nofollow" env=!arena_public
+    <Files "404.html">
+        Header always set X-Robots-Tag "noindex, nofollow"
+    </Files>
+    <FilesMatch "\.(html|xml|txt)$">
+        Header set Cache-Control "public, max-age=0, must-revalidate"
+    </FilesMatch>
+</IfModule>
+
+<IfModule mod_mime.c>
+    AddType video/webm .webm
+</IfModule>

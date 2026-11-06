@@ -1,0 +1,80 @@
+:root{
+ --motion-quick:180ms;
+ --motion-enter:360ms;
+ --motion-ease:cubic-bezier(.22,1,.36,1);
+}
+
+@keyframes arena-rise{
+ from{opacity:0;transform:translateY(12px)}
+ to{opacity:1;transform:translateY(0)}
+}
+@keyframes arena-fade{from{opacity:0}to{opacity:1}}
+@keyframes arena-hero-settle{from{transform:scale(1.035)}to{transform:scale(1)}}
+@keyframes arena-dialog-enter{
+ from{opacity:0;transform:translateY(12px) scale(.985)}
+ to{opacity:1;transform:translateY(0) scale(1)}
+}
+@keyframes arena-icon-enter{
+ from{opacity:0;transform:scale(.85)}
+ to{opacity:1;transform:scale(1)}
+}
+@keyframes arena-progress{to{transform:rotate(360deg)}}
+
+@media(prefers-reduced-motion:no-preference){
+ .hero-image{animation:arena-hero-settle 1400ms var(--motion-ease) both}
+
+ .split-button,.header-enquiry,.form-submit,.filter-tabs button,.floating-whatsapp{
+  transition:transform var(--motion-quick) var(--motion-ease);
+ }
+ .split-button:active,.header-enquiry:active,.form-submit:not(:disabled):active,.filter-tabs button:active{
+  transform:scale(.98);
+ }
+ .button-arrow svg,.text-link svg,.hero-advisor svg,.header-enquiry svg,
+ .form-submit>svg:not(.saving-spinner),.image-arrow svg,
+ .faq-item h3 button>svg,.curriculum-list summary>svg{
+  transition:transform 260ms var(--motion-ease);
+ }
+ .split-button:is(:hover,:focus-visible) .button-arrow svg,
+ .text-link:is(:hover,:focus-visible) svg{transform:translateX(4px)}
+ .hero-advisor:is(:hover,:focus-visible) svg,
+ .header-enquiry:is(:hover,:focus-visible) svg,
+ .course-image-button:is(:hover,:focus-visible) .image-arrow svg{transform:translate(2px,-2px)}
+ .form-submit:not(:disabled):is(:hover,:focus-visible)>svg:not(.saving-spinner){transform:translateX(3px)}
+
+ .desktop-nav a{position:relative;border-color:transparent}
+ .desktop-nav a::after{
+  content:'';position:absolute;inset-inline:0;bottom:-1px;height:1px;
+  background:var(--red);transform:scaleX(0);transform-origin:left;
+  transition:transform 260ms var(--motion-ease);
+ }
+ .desktop-nav a:is(:hover,:focus-visible)::after{transform:scaleX(1)}
+
+ .course-image-button img{transition:transform 600ms var(--motion-ease)}
+ .course-image-button:focus-visible img{transform:scale(1.045)}
+ .faq-item>div:not([hidden]),.curriculum-list details[open] .term-content{
+  animation:arena-rise 300ms var(--motion-ease);
+ }
+ .enquiry-dialog[open]{animation:arena-dialog-enter var(--motion-enter) var(--motion-ease)}
+ .course-dialog[open]{animation:arena-fade 260ms ease-out}
+ dialog[open]::backdrop{animation:arena-fade 260ms ease-out}
+ .mobile-nav{animation:arena-rise 280ms var(--motion-ease)}
+ .mobile-nav a{animation:arena-rise 320ms var(--motion-ease) backwards}
+ .mobile-nav a:nth-child(2){animation-delay:35ms}
+ .mobile-nav a:nth-child(3){animation-delay:70ms}
+ .mobile-nav a:nth-child(4){animation-delay:105ms}
+ .mobile-nav a:nth-child(5){animation-delay:140ms}
+ .mobile-nav a:nth-child(6){animation-delay:175ms}
+ .menu-toggle svg{animation:arena-icon-enter 200ms ease-out}
+ .prepared-state,.enquiry-error{animation:arena-rise 360ms var(--motion-ease)}
+ .success-icon{animation:arena-icon-enter 420ms 80ms var(--motion-ease) backwards}
+ .saving-spinner{animation:arena-progress 900ms linear infinite}
+
+ @media(hover:hover) and (pointer:fine){
+  .floating-whatsapp:hover{transform:translateY(-3px)}
+ }
+}
+
+@media(prefers-reduced-motion:reduce){
+ html{scroll-behavior:auto}
+ .course-image-button:hover img{transform:none}
+}

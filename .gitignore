@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.build/
+.sites-runtime/
+.sites-checkout*/
+qa/
+work/
+.DS_Store
+.env
+.env.*

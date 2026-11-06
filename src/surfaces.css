@@ -1,0 +1,67 @@
+/* Shared surface shape across the homepage, course guides and scholarship page. */
+:root {
+  --surface-radius: 4px;
+}
+
+button,
+.split-button,
+.header-enquiry,
+.form-submit,
+.floating-whatsapp,
+.skip-link,
+.section-nav a,
+.detail-nav a,
+.detail-header > a,
+.related-courses > div a,
+.image-label,
+.image-arrow,
+.course-search,
+.course-card,
+.pathway-item,
+.counselling-panel,
+.placement-card,
+.placement-portrait,
+.placement-brochure,
+.brochure-cover-link,
+.brochure-cover-link img,
+.course-aside,
+.course-caution,
+.tools-list > span,
+.career-list > div,
+.faq-item,
+.curriculum-list details,
+.enquiry-error,
+.scholarship-form-panel,
+.scholarship-centre,
+.scholarship-faqs details,
+.hero-video-choices,
+dialog,
+.enquiry-dialog input:not([type=checkbox]),
+.enquiry-dialog select,
+.enquiry-dialog textarea,
+.scholarship-form-panel input:not([type=checkbox]),
+.scholarship-form-panel select,
+.scholarship-form-panel textarea {
+  border-radius: var(--surface-radius);
+}
+
+/* Clip artwork and split-button fills to their shared outer corners. */
+.course-card,
+.split-button,
+.hero-video-choices,
+.brochure-cover-link {
+  overflow: hidden;
+}
+
+.course-image-button {
+  border-radius: var(--surface-radius) var(--surface-radius) 0 0;
+  overflow: hidden;
+}
+
+.split-button > .button-arrow {
+  border-radius: 0 var(--surface-radius) var(--surface-radius) 0;
+}
+
+.course-search input {
+  border-radius: var(--surface-radius);
+}

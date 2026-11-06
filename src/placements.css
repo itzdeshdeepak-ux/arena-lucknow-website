@@ -1,0 +1,74 @@
+.placements-section{background:var(--soft);padding-block:96px}
+.placements-section .section-heading{align-items:flex-end}
+.placements-section .section-heading>p{max-width:320px}
+.placement-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.placement-card{background:var(--paper);border:1px solid var(--line);padding:24px;display:flex;flex-direction:column;min-width:0}
+.placement-person{display:grid;grid-template-columns:80px minmax(0,1fr);gap:20px;align-items:center;min-height:112px}
+.placement-portrait{position:relative;width:80px;overflow:hidden;background:#131311;isolation:isolate}
+.placement-portrait img{position:absolute;height:auto;max-width:none;display:block}
+.placement-person h3{font-size:21px;letter-spacing:-.5px;line-height:1.2;margin:0 0 10px;font-weight:600;overflow-wrap:anywhere}
+.placement-role{font-size:12px;line-height:1.6;color:var(--muted);margin:0}
+.placement-company{margin:24px 0;display:flex;flex-direction:column;gap:5px}
+.placement-company>span{font-size:8px;letter-spacing:1.2px;color:var(--muted);font-weight:700}
+.placement-company strong{font-size:14px;line-height:1.4;font-weight:600}
+.placement-card-footer{border-top:1px solid var(--line);padding-top:20px;margin-top:auto;display:flex;gap:12px;align-items:flex-end;justify-content:space-between}
+.placement-package{display:flex;flex-direction:column;gap:5px}
+.placement-package>strong{font-size:26px;color:var(--red);line-height:1.1;letter-spacing:-.8px;font-weight:600;white-space:nowrap}
+.placement-package>strong>span{font-size:12px;letter-spacing:0}
+.placement-package>span{font-size:8px;color:var(--muted);line-height:1.5}
+.placement-card .text-link{font-size:10px;gap:8px;padding:0;white-space:nowrap}
+.placement-source-note{font-size:10px;color:var(--muted);line-height:1.8;margin:24px 0 40px;max-width:800px}
+.placement-brochure{display:grid;grid-template-columns:112px minmax(0,1fr) auto;gap:32px;align-items:center;border:1px solid var(--line);padding:32px;background:var(--paper)}
+.brochure-cover-link{display:block;align-self:center}
+.brochure-cover-link img{width:112px;height:auto}
+.brochure-description .eyebrow{font-size:8px;margin-bottom:12px}
+.brochure-description h3{font-size:28px;line-height:1.15;letter-spacing:-.7px;margin-bottom:14px}
+.brochure-description>p:last-child{font-size:12px;line-height:1.8;color:var(--muted);max-width:430px;margin-bottom:0}
+.brochure-action{display:flex;flex-direction:column;gap:12px;align-items:flex-start}
+.brochure-action>span{font-size:8px;color:var(--muted);line-height:1.8;max-width:230px}
+@media(max-width:1100px){
+ .placement-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .placement-card{padding:20px}
+ .placement-person{grid-template-columns:64px minmax(0,1fr);gap:16px}
+ .placement-portrait{width:64px}
+ .placement-person h3{font-size:18px}
+ .placement-card-footer{align-items:flex-start;flex-direction:column;gap:8px}
+ .placement-brochure{grid-template-columns:96px minmax(0,1fr);gap:24px}
+ .brochure-cover-link{grid-row:span 2;align-self:start}
+ .brochure-cover-link img{width:96px}
+ .brochure-action{grid-column:2}
+}
+@media(max-width:760px){
+ .placements-section{padding-block:64px}
+ .placements-section h2{font-size:36px}
+ .placements-section .section-heading>p{max-width:none}
+ .placement-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+ .placement-person{grid-template-columns:64px minmax(0,1fr);gap:16px}
+ .placement-person h3{font-size:18px}
+ .placement-company strong{font-size:13px}
+ .placement-brochure{padding:24px;grid-template-columns:80px minmax(0,1fr);gap:20px}
+ .brochure-cover-link img{width:80px}
+ .brochure-description h3{font-size:23px}
+ .brochure-description .eyebrow{font-size:7px}
+ .brochure-description>p:last-child{font-size:11px}
+}
+@media(max-width:560px){
+ .placement-grid{grid-template-columns:1fr}
+ .placement-card{padding:24px}
+ .placement-person{grid-template-columns:80px minmax(0,1fr);gap:24px}
+ .placement-portrait{width:80px}
+ .placement-person h3{font-size:22px}
+ .placement-card-footer{align-items:flex-end;flex-direction:row;gap:12px}
+ .placement-source-note{margin-bottom:32px}
+ .placement-brochure{gap:24px 16px}
+ .brochure-cover-link{grid-row:auto}
+ .brochure-description h3{font-size:22px;margin-bottom:0}
+ .brochure-description>p:last-child{display:none}
+ .brochure-action{grid-column:1/-1}
+ .brochure-action .split-button{width:100%;justify-content:space-between}
+}
+@media(max-width:360px){
+ .placement-person{grid-template-columns:64px minmax(0,1fr);gap:16px}
+ .placement-portrait{width:64px}
+ .placement-person h3{font-size:20px}
+}

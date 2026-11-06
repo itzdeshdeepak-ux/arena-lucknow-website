@@ -1,0 +1,346 @@
+{
+  "AR-001": {
+    "src": "/assets/courses/ar-001.webp",
+    "thumbnail": "/assets/courses/ar-001-thumb.webp",
+    "alt": "Animator designing a fantasy character in a 3D production workspace",
+    "position": "50% 50%",
+    "width": 431,
+    "height": 250
+  },
+  "AR-002": {
+    "src": "/assets/courses/ar-002.webp",
+    "thumbnail": "/assets/courses/ar-002-thumb.webp",
+    "alt": "Cinematic 3D industrial action scene combining animation, VFX and game art",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 371
+  },
+  "AR-003": {
+    "src": "/assets/courses/ar-003.webp",
+    "thumbnail": "/assets/courses/ar-003-thumb.webp",
+    "alt": "Original-style 3D action characters in a visual-effects scene",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 567
+  },
+  "AR-004": {
+    "src": "/assets/courses/ar-004.webp",
+    "thumbnail": "/assets/courses/ar-004-thumb.webp",
+    "alt": "Stylized 3D character illustrating Maya character modelling and animation",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 567
+  },
+  "AR-005": {
+    "src": "/assets/courses/ar-005.webp",
+    "thumbnail": "/assets/courses/ar-005-thumb.webp",
+    "alt": "Digital artist developing a rendered 3D world",
+    "position": "50% 42%",
+    "width": 500,
+    "height": 627
+  },
+  "AR-006": {
+    "src": "/assets/courses/ar-006.webp",
+    "thumbnail": "/assets/courses/ar-006-thumb.webp",
+    "alt": "Surreal visual-effects scene with floating clocks and digital elements",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 371
+  },
+  "AR-007": {
+    "src": "/assets/courses/ar-007.webp",
+    "thumbnail": "/assets/courses/ar-007-thumb.webp",
+    "alt": "Compositing artist editing visual content at a workstation",
+    "position": "50% 42%",
+    "width": 510,
+    "height": 640
+  },
+  "AR-008": {
+    "src": "/assets/courses/ar-008.webp",
+    "thumbnail": "/assets/courses/ar-008-thumb.webp",
+    "alt": "Camera operator shooting a cinematic scene for visual-effects production",
+    "position": "50% 42%",
+    "width": 329,
+    "height": 640
+  },
+  "AR-009": {
+    "src": "/assets/courses/ar-009.webp",
+    "thumbnail": "/assets/courses/ar-009-thumb.webp",
+    "alt": "Content creation studio with a camera, microphone and digital editing workspace",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-010": {
+    "src": "/assets/courses/ar-010.webp",
+    "thumbnail": "/assets/courses/ar-010-thumb.webp",
+    "alt": "Motion-design composition of animated-style data and interface elements",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-011": {
+    "src": "/assets/courses/ar-011.webp",
+    "thumbnail": "/assets/courses/ar-011-thumb.webp",
+    "alt": "Mobile application screens showing user-interface design and visual hierarchy",
+    "position": "50% 42%",
+    "width": 494,
+    "height": 640
+  },
+  "AR-012": {
+    "src": "/assets/courses/ar-012.webp",
+    "thumbnail": "/assets/courses/ar-012-thumb.webp",
+    "alt": "Web development illustration with programming and web technologies",
+    "position": "50% 42%",
+    "width": 329,
+    "height": 640
+  },
+  "AR-013": {
+    "src": "/assets/courses/ar-013.webp",
+    "thumbnail": "/assets/courses/ar-013-thumb.webp",
+    "alt": "Vibrant printed graphics moving through a colour printing press",
+    "position": "50% 42%",
+    "width": 329,
+    "height": 640
+  },
+  "AR-014": {
+    "src": "/assets/courses/ar-014.webp",
+    "thumbnail": "/assets/courses/ar-014-thumb.webp",
+    "alt": "Design and coding workspace for graphics and web development",
+    "position": "50% 42%",
+    "width": 329,
+    "height": 640
+  },
+  "AR-015": {
+    "src": "/assets/courses/ar-015.webp",
+    "thumbnail": "/assets/courses/ar-015-thumb.webp",
+    "alt": "XR game prototype with virtual-reality controllers and an interactive game world",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-016": {
+    "src": "/assets/courses/ar-016.webp",
+    "thumbnail": "/assets/courses/ar-016-thumb.webp",
+    "alt": "Game-art illustration from Arena’s game art and design course",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-017": {
+    "src": "/assets/courses/ar-017.webp",
+    "thumbnail": "/assets/courses/ar-017-thumb.webp",
+    "alt": "Detailed game-art scene from Arena’s game-art specialization course",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-018": {
+    "src": "/assets/courses/ar-018.webp",
+    "thumbnail": "/assets/courses/ar-018-thumb.webp",
+    "alt": "3D game character in a designed urban gameplay environment",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-019": {
+    "src": "/assets/courses/ar-019.webp",
+    "thumbnail": "/assets/courses/ar-019-thumb.webp",
+    "alt": "Immersive spatial design experience with a VR headset and interactive digital sculpture",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-020": {
+    "src": "/assets/courses/ar-020.webp",
+    "thumbnail": "/assets/courses/ar-020-thumb.webp",
+    "alt": "Architectural rendering of a glass building and landscaped entrance",
+    "position": "50% 42%",
+    "width": 494,
+    "height": 640
+  },
+  "AR-021": {
+    "src": "/assets/courses/ar-021.webp",
+    "thumbnail": "/assets/courses/ar-021-thumb.webp",
+    "alt": "Digital marketing and AI-assisted campaign learning illustration",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-022": {
+    "src": "/assets/courses/ar-022.webp",
+    "thumbnail": "/assets/courses/ar-022-thumb.webp",
+    "alt": "Immersive product and architectural visualization of a contemporary interior",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-023": {
+    "src": "/assets/courses/ar-023.webp",
+    "thumbnail": "/assets/courses/ar-023-thumb.webp",
+    "alt": "Interior design visualization with an architectural floor plan and room model",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-024": {
+    "src": "/assets/courses/ar-024.webp",
+    "thumbnail": "/assets/courses/ar-024-thumb.webp",
+    "alt": "Illustrated AI robot developing written creative content",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-025": {
+    "src": "/assets/courses/ar-025.webp",
+    "thumbnail": "/assets/courses/ar-025-thumb.webp",
+    "alt": "Hand-drawn 2D animation character with onion-skin key poses and motion arcs",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-026": {
+    "src": "/assets/courses/ar-026.webp",
+    "thumbnail": "/assets/courses/ar-026-thumb.webp",
+    "alt": "3D furniture model transitioning from polygon wireframe to a finished material render",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-027": {
+    "src": "/assets/courses/ar-027.webp",
+    "thumbnail": "/assets/courses/ar-027-thumb.webp",
+    "alt": "Motion graphics composition with geometric forms, ribbons and animation paths",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-028": {
+    "src": "/assets/courses/ar-028.webp",
+    "thumbnail": "/assets/courses/ar-028-thumb.webp",
+    "alt": "Audio and video editing workstation with multitrack timelines, waveforms and headphones",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-029": {
+    "src": "/assets/courses/ar-029.webp",
+    "thumbnail": "/assets/courses/ar-029-thumb.webp",
+    "alt": "Rendered cyberpunk character demonstrating Blender-style 3D character design",
+    "position": "50% 42%",
+    "width": 494,
+    "height": 640
+  },
+  "AR-030": {
+    "src": "/assets/courses/ar-030.webp",
+    "thumbnail": "/assets/courses/ar-030-thumb.webp",
+    "alt": "3D product visualization illustrating Cinema 4D rendering workflows",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-031": {
+    "src": "/assets/courses/ar-031.webp",
+    "thumbnail": "/assets/courses/ar-031-thumb.webp",
+    "alt": "Procedural water, fire, smoke and particle simulation illustrating Houdini visual effects",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-032": {
+    "src": "/assets/courses/ar-032.webp",
+    "thumbnail": "/assets/courses/ar-032-thumb.webp",
+    "alt": "Vector fox illustration with Bézier anchor points and pen-tool drawing paths",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-033": {
+    "src": "/assets/courses/ar-033.webp",
+    "thumbnail": "/assets/courses/ar-033-thumb.webp",
+    "alt": "Editorial magazine spread with a column grid and carefully arranged page layouts",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-034": {
+    "src": "/assets/courses/ar-034.webp",
+    "thumbnail": "/assets/courses/ar-034-thumb.webp",
+    "alt": "Rigged 3D character with polygon mesh, animation controls and joint markers",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-035": {
+    "src": "/assets/courses/ar-035.webp",
+    "thumbnail": "/assets/courses/ar-035-thumb.webp",
+    "alt": "Green-screen plate and rotoscope outline transitioning into a finished visual-effects composite",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-036": {
+    "src": "/assets/courses/ar-036.webp",
+    "thumbnail": "/assets/courses/ar-036-thumb.webp",
+    "alt": "Photography course illustration with camera and composition subjects",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-037": {
+    "src": "/assets/courses/ar-037.webp",
+    "thumbnail": "/assets/courses/ar-037-thumb.webp",
+    "alt": "Digital image editing and photo-compositing illustration",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 408
+  },
+  "AR-038": {
+    "src": "/assets/courses/ar-038.webp",
+    "thumbnail": "/assets/courses/ar-038-thumb.webp",
+    "alt": "3D helmet transitioning from clay to painted PBR textures with a UV material sheet",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-039": {
+    "src": "/assets/courses/ar-039.webp",
+    "thumbnail": "/assets/courses/ar-039-thumb.webp",
+    "alt": "Cinematic real-time city environment with virtual camera composition and dramatic lighting",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-040": {
+    "src": "/assets/courses/ar-040.webp",
+    "thumbnail": "/assets/courses/ar-040-thumb.webp",
+    "alt": "Real-time 3D game action scene with cinematic lighting and explosions",
+    "position": "50% 42%",
+    "width": 329,
+    "height": 640
+  },
+  "AR-041": {
+    "src": "/assets/courses/ar-041.webp",
+    "thumbnail": "/assets/courses/ar-041-thumb.webp",
+    "alt": "Detailed clay creature bust illustrating high-polygon digital sculpting",
+    "position": "50% 50%",
+    "width": 640,
+    "height": 400
+  },
+  "AR-042": {
+    "src": "/assets/courses/ar-042.webp",
+    "thumbnail": "/assets/courses/ar-042-thumb.webp",
+    "alt": "AI-assisted motion graphics and video-direction illustration",
+    "position": "50% 50%",
+    "width": 298,
+    "height": 160
+  },
+  "AR-043": {
+    "src": "/assets/courses/ar-043.webp",
+    "thumbnail": "/assets/courses/ar-043-thumb.webp",
+    "alt": "AI-assisted video editing workflow illustration",
+    "position": "50% 50%",
+    "width": 298,
+    "height": 160
+  }
+}

@@ -1,0 +1,449 @@
+[
+  {
+    "id": "AR-001",
+    "title": "Advanced Program in Animation with Unreal Engine",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/animation/animation-with-unreal-engine/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/animator-designing-character-on-computer.jpg",
+    "output": "/assets/courses/ar-001.webp",
+    "thumbnail": "/assets/courses/ar-001-thumb.webp",
+    "sha256": "7f0103fc4e615cea0d8037cf1b9a13574c5ffc1cf213a0b79f58b313b2e6825c"
+  },
+  {
+    "id": "AR-002",
+    "title": "Arena Animation Specialist Program in Trinity (AVG)",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/animation/trinity-3D-master-course/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/game-changer-section/trinity-animation-program-3d-industrial-scene.jpg",
+    "output": "/assets/courses/ar-002.webp",
+    "thumbnail": "/assets/courses/ar-002-thumb.webp",
+    "sha256": "884fd33447d23e7863b3281f90655d3659da20225127924e688e84231c73fbf2"
+  },
+  {
+    "id": "AR-003",
+    "title": "Advanced Program in Animation and VFX",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/animation/advanced-program-animation-VFX/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/3d-action-warriors.jpg",
+    "output": "/assets/courses/ar-003.webp",
+    "thumbnail": "/assets/courses/ar-003-thumb.webp",
+    "sha256": "2b7909b40c6135340b913430038e478302c2e524a7066d824a2cbd27b5c8bfbb"
+  },
+  {
+    "id": "AR-004",
+    "title": "Advanced Digital Graphics and Animation (Maya)",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/animation/digital-graphics-animation-maya/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/maya-course-3d-character-modeling-animation.jpg",
+    "output": "/assets/courses/ar-004.webp",
+    "thumbnail": "/assets/courses/ar-004-thumb.webp",
+    "sha256": "51685093b7b4a0c1c18feaf79deb0945dc0f157cdbba89b6d3add052082c7d3b"
+  },
+  {
+    "id": "AR-005",
+    "title": "Advanced Digital Graphics and Animation (Blender)",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/animation/digital-graphics-animation-blender/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/concept-artist-digital-world.jpg",
+    "output": "/assets/courses/ar-005.webp",
+    "thumbnail": "/assets/courses/ar-005-thumb.webp",
+    "sha256": "5b161b87147b38ff3ffb685e4e4f028543dbb80d09504918283092ffc37bf2d1"
+  },
+  {
+    "id": "AR-006",
+    "title": "Advanced Program in Visual Effects",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/vfx/advanced-program-visual-effects/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/game-changer-section/advanced-vfx-course-surreal-visual-effects.jpg",
+    "output": "/assets/courses/ar-006.webp",
+    "thumbnail": "/assets/courses/ar-006-thumb.webp",
+    "sha256": "7f96e2a08f950fdb72d8d52041485012735f27718c240805810ad303025ab2b3"
+  },
+  {
+    "id": "AR-007",
+    "title": "Advanced Program in VFX Compositing and Editing",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/vfx/advanced-program-VFX-compositing-editing/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/career-section/advanced-program-vfx-compositing-editing-career.jpg",
+    "output": "/assets/courses/ar-007.webp",
+    "thumbnail": "/assets/courses/ar-007-thumb.webp",
+    "sha256": "f3824afc47a2657cdc2752849eaff188d5c95faa9399b7aa9486c1688a04f435"
+  },
+  {
+    "id": "AR-008",
+    "title": "Advanced Program in VFX Film Making",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/vfx/advanced-program-VFX-film-making/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/vfx-film-making-student-shooting.jpg",
+    "output": "/assets/courses/ar-008.webp",
+    "thumbnail": "/assets/courses/ar-008-thumb.webp",
+    "sha256": "18e18a164317defd55037c8a34ca46d3856fca7a70a2867aefd896c22eca7622"
+  },
+  {
+    "id": "AR-009",
+    "title": "Digital Content Creation",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/dd/digital-content-creation/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-beb68e3b-3b90-4d71-aef6-1055c64d5ae1.png",
+    "prompt": "A polished compact creator studio: mirrorless camera on a small tripod, podcast microphone, a tablet displaying original visual artwork, and a desktop showing a neat abstract video-editing timeline with short-form content frames. Warm creative desk lighting and colorful original media tiles. Clearly communicate the combination of shooting, design, sound and editing for digital content creation.",
+    "output": "/assets/courses/ar-009.webp",
+    "thumbnail": "/assets/courses/ar-009-thumb.webp",
+    "sha256": "7f28651f68bf80d8851eb347a54c597dbc2f249772582d617fb14dbee27bb1fb"
+  },
+  {
+    "id": "AR-010",
+    "title": "Advanced Program in Motion Graphics & Design",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/dd/next-gen-visual-design-and-motion-graphics/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/futuristic-ui-visual-design.jpg",
+    "output": "/assets/courses/ar-010.webp",
+    "thumbnail": "/assets/courses/ar-010-thumb.webp",
+    "sha256": "6ab75a89ab203950b42723647cfe3a16eb02725e829b196bd997a21bb669b965"
+  },
+  {
+    "id": "AR-011",
+    "title": "Advanced Program in UI UX Design",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/dd/advanced-program-in-ui-ux-design/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/ui-ux-design-course-app-interfaces.jpg",
+    "output": "/assets/courses/ar-011.webp",
+    "thumbnail": "/assets/courses/ar-011-thumb.webp",
+    "sha256": "2024c44865233b2218d0013fa67e29a74ae222c7c2bbe3a7d98a12bbb6035eee"
+  },
+  {
+    "id": "AR-012",
+    "title": "Next-Gen Web Design and Development",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/dd/next-gen-web-design-and-development/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/software-development-coding-languages.jpg",
+    "output": "/assets/courses/ar-012.webp",
+    "thumbnail": "/assets/courses/ar-012-thumb.webp",
+    "sha256": "a598ada78e4414542f35d2e2e59463cd7f104abc4193649a7fef11b4cdf17316"
+  },
+  {
+    "id": "AR-013",
+    "title": "Next Gen Graphic & Visual Design",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/dd/next-gen-graphic-and-visual-design/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/color-printing-press-rolls.jpg",
+    "output": "/assets/courses/ar-013.webp",
+    "thumbnail": "/assets/courses/ar-013-thumb.webp",
+    "sha256": "2141ff4ef9b622d5e027826f08a9d0a3d0328e3b4be76f8638e704b0c2e4fd69"
+  },
+  {
+    "id": "AR-014",
+    "title": "Next-Gen Graphic and Web Development",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/dd/next-gen-graphic-and-web-development/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/digital-design-coding-workspace.jpg",
+    "output": "/assets/courses/ar-014.webp",
+    "thumbnail": "/assets/courses/ar-014-thumb.webp",
+    "sha256": "ccb5949f65fb6a3ab2d2bed73f698812cb12e0153dbbb2a9ecf96c0549b0de3b"
+  },
+  {
+    "id": "AR-015",
+    "title": "Master in Game Art, Design and Prototyping with XR",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/gaming-interactive-design/advance-program-in-game-art-design-and-development-with-arvr/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-e585c622-988f-445c-910f-2907d89bbe4a.png",
+    "prompt": "A first-person spatial game prototype: two elegant VR controllers framing floating low-poly game platforms, a stylized original robot character and a curved translucent play-space boundary. Show the transition from a neutral grey white-box game level on the left into a polished interactive game world on the right as one coherent scene. Clearly communicate game prototyping and XR interaction.",
+    "output": "/assets/courses/ar-015.webp",
+    "thumbnail": "/assets/courses/ar-015-thumb.webp",
+    "sha256": "b3f37a06f4295fe1eb465a13ae415246070030b9f15d397e2b455006c30bbe1a"
+  },
+  {
+    "id": "AR-016",
+    "title": "Advanced Program in Game Art and Design",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/gaming-interactive-design/advance-program-in-game-art-and-design/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/about-section/vfx-gaming-about-1.jpg",
+    "output": "/assets/courses/ar-016.webp",
+    "thumbnail": "/assets/courses/ar-016-thumb.webp",
+    "sha256": "7101584b87e6b700c2ab78cda94e595262500886a2675eb15a27119562e6f0f0"
+  },
+  {
+    "id": "AR-017",
+    "title": "Advance Program in Game Art & Design with Specialization",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/gaming-interactive-design/advance-program-in-game-art-and-design-with-specialization/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/about-section/vfx-gaming-about-2.jpg",
+    "output": "/assets/courses/ar-017.webp",
+    "thumbnail": "/assets/courses/ar-017-thumb.webp",
+    "sha256": "be44114e7642c4185b19eb70e9fc04f429d37569cd5a823e104777a57ba52671"
+  },
+  {
+    "id": "AR-018",
+    "title": "Advanced Program in Game Art & Design with Prototyping",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/gaming-interactive-design/advance-program-in-game-art-design-and-development/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/about-section/game-art-development-program-action-game-environment.png",
+    "output": "/assets/courses/ar-018.webp",
+    "thumbnail": "/assets/courses/ar-018-thumb.webp",
+    "sha256": "18dfb3fe5a28a6bed8feee75e5c25ea06927af9af0d51ef46edda4af106d57b8"
+  },
+  {
+    "id": "AR-019",
+    "title": "Advanced Program in Immersive Design",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/gaming-interactive-design/advanced-program-in-immersive-design/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-b40700e1-e510-476c-9ee8-d8ac7bd102aa.png",
+    "prompt": "A contemporary mixed-reality design experience: an anonymous young creative seen from behind wearing a VR headset, hands interacting with a large luminous volumetric exhibition sculpture in a dark gallery. Spatial layers and responsive virtual interfaces surround the sculpture. Clearly communicate immersive spatial experience design, not an ordinary gamer at a desktop.",
+    "output": "/assets/courses/ar-019.webp",
+    "thumbnail": "/assets/courses/ar-019-thumb.webp",
+    "sha256": "66ea31cdc8a9f7c49e2802a7f8cb95aa520923fcc55efd458d75fb1fda688624"
+  },
+  {
+    "id": "AR-020",
+    "title": "Advanced Program in Architectural Visualization and Interior Design",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/architecture-visualization/architectural-visualization-interior-design/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/terms-section/advanced-program-architectural-visualization-interior-design-career.jpg",
+    "output": "/assets/courses/ar-020.webp",
+    "thumbnail": "/assets/courses/ar-020-thumb.webp",
+    "sha256": "89639c5d469de34a909d0d7240fe7b37bbc96b06ac799062900e13dbbcf2f5ee"
+  },
+  {
+    "id": "AR-021",
+    "title": "Advanced Program in Digital Marketing with Gen AI",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/digital-marketing/advance-program-with-genai/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/about-section/digital-marketing-with-ai-course-learning-experience.jpg",
+    "output": "/assets/courses/ar-021.webp",
+    "thumbnail": "/assets/courses/ar-021-thumb.webp",
+    "sha256": "1fa7e090f07070b51b4f0bec0e1ae2fa4b0aeef262c7174b32068894a3e52526"
+  },
+  {
+    "id": "AR-022",
+    "title": "Advanced Program in Immersive Product and Architecture Visualization",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/gaming-interactive-design/advanced-program-in-immersive-product-and-architecture-visualization/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-d4cfadfd-aeaa-4a35-ac54-ea60cd3aac6d.png",
+    "prompt": "An exquisitely rendered modern living room and a sculptural designer lounge chair, with a translucent augmented-reality architectural model of the same room floating on a presentation table in the foreground. Architectural materials, warm wood, concrete, soft daylight and a few subtle wireframe construction edges. Clearly communicate immersive architecture and 3D product visualization.",
+    "output": "/assets/courses/ar-022.webp",
+    "thumbnail": "/assets/courses/ar-022-thumb.webp",
+    "sha256": "e061768981bdc97488501a45ef154be2434f2a82d5e890f872c2d10d63a0e858"
+  },
+  {
+    "id": "AR-023",
+    "title": "Digital Architecture and Interior Design",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/digital-architecture-and-interior-design/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-263870bb-759a-40ea-a742-85872c533f7b.png",
+    "prompt": "A beautiful photorealistic contemporary apartment interior with warm wood, soft neutral furniture and daylight. In the foreground, a precise architectural floor plan and a small clean wireframe model of the same interior are layered over a drafting table. Clearly communicate interior design, floor planning and architectural visualization. No glass office skyscrapers.",
+    "output": "/assets/courses/ar-023.webp",
+    "thumbnail": "/assets/courses/ar-023-thumb.webp",
+    "sha256": "5f5fcc77261a53df29437683bdd9d052d54a7daa51e2f82a639c9a176bf2a001"
+  },
+  {
+    "id": "AR-024",
+    "title": "Master in Gen Ai",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-gen-ai/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses-about-section/short-term-gen-ai-course-content-writing.jpg",
+    "output": "/assets/courses/ar-024.webp",
+    "thumbnail": "/assets/courses/ar-024-thumb.webp",
+    "sha256": "3d43b429d3449467accb76ea2e7879968ebbc986b409e38926bc0f51509e7911"
+  },
+  {
+    "id": "AR-025",
+    "title": "Master in 2D Animation",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-2d-animation/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-2fbfd89b-22cc-4ed6-93b0-6b6b102c0077.png",
+    "prompt": "Create one premium landscape 16:10 thumbnail for a 'Master in 2D Animation' course. A beautiful traditional 2D animation drawing desk viewed from above, with an original expressive little fox character drawn in ink and warm flat cel colors on an animation sheet, with two faint onion-skin key poses showing the movement of a leap. A digital pen and a few clean motion arcs explain the animation process. Entire character art must be hand-drawn flat 2D, not 3D rendered or photorealistic cartoon. Warm cream paper, coral orange, deep teal accents, crisp pencil and ink texture. This is one coherent animation workspace, not a tiled collage. No text, logos, watermark, or recognizable existing characters. Strong readable focal subject within the central 75% for responsive website crops. Illustrative course art, not actual student work.",
+    "output": "/assets/courses/ar-025.webp",
+    "thumbnail": "/assets/courses/ar-025-thumb.webp",
+    "sha256": "1b3ff694c74170cd02435c2873e07700bf3494585ff5a7895e69f3b01324e2ca"
+  },
+  {
+    "id": "AR-026",
+    "title": "Master in 3ds Max",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-3dsmax/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-512cc6f9-9828-4525-8409-f9037afe4392.png",
+    "prompt": "A precision 3D furniture and interior visualization: sculptural upholstered armchair and side table in an elegant architectural studio space, with a clean blue polygon wireframe overlay on one portion transitioning smoothly into a photoreal V-Ray-style material render on the remainder. Emphasize hard-surface modelling, realistic lighting, reflections and materials.",
+    "output": "/assets/courses/ar-026.webp",
+    "thumbnail": "/assets/courses/ar-026-thumb.webp",
+    "sha256": "19b4412bbf8cf06e97b26270ce96907b819a95e25127e042328e77415dd42ef7"
+  },
+  {
+    "id": "AR-027",
+    "title": "Master in After Effects",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-after-effects/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-e371fcc7-f293-4baf-a65b-469583d0585e.png",
+    "prompt": "An expressive motion-design artwork: elegant bright orange and cyan ribbons, geometric 3D shapes and a circular kinetic composition sweeping through space, surrounded by a few subtle animation keyframe markers and curved motion paths. A restrained layered compositing-strip motif along the lower edge. Clearly communicate motion graphics, animation and layered visual effects rather than coding or interface design.",
+    "output": "/assets/courses/ar-027.webp",
+    "thumbnail": "/assets/courses/ar-027-thumb.webp",
+    "sha256": "9e089d8f4b7c17cfb757c5b4fe1dad960546aa3571e172149d0e4524c6989def"
+  },
+  {
+    "id": "AR-028",
+    "title": "Master in Audio Video Editing",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-audio-video-editing/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-03ce7675-cfcd-4b5c-8428-0bd46de023eb.png",
+    "prompt": "A professional editing desk in a dark teal acoustic studio: a large desktop monitor showing a clean illustrative multitrack timeline with cinematic footage frames and vividly readable waveform shapes (no labels), studio headphones on a mixer console and an amber sound-level display. Clearly communicate synchronization, video cutting and audio post-production.",
+    "output": "/assets/courses/ar-028.webp",
+    "thumbnail": "/assets/courses/ar-028-thumb.webp",
+    "sha256": "03509a9224d97546741e6244b3f80c5665f1ea387ca80f5e5134820c8c36248b"
+  },
+  {
+    "id": "AR-029",
+    "title": "Master in Blender",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-blender/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/terms-section/3d-animation-in-blender-character-design.jpg",
+    "output": "/assets/courses/ar-029.webp",
+    "thumbnail": "/assets/courses/ar-029-thumb.webp",
+    "sha256": "edb36eadaeaefa548e238b3782489411e36203d91b242477ab5250ebac13958a"
+  },
+  {
+    "id": "AR-030",
+    "title": "Master in Cinema 4D",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-cinema-4d/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses-about-section/about-us-AB-productvisualisation.jpg",
+    "output": "/assets/courses/ar-030.webp",
+    "thumbnail": "/assets/courses/ar-030-thumb.webp",
+    "sha256": "3f3ada8caeb48663d187f00cf94d79281a8e57227c2a9cfb2f39eb04cd74f5e3"
+  },
+  {
+    "id": "AR-031",
+    "title": "Master in Houdini",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-houdini/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-82be8aa0-9d3e-4d33-b400-268d5ad9381a.png",
+    "prompt": "Premium 16:10 Master in Houdini course illustration: physically simulated turquoise water colliding with amber fire, volumetric smoke, procedural particle field, dark cinematic studio, no text, logos or student-work claims.",
+    "output": "/assets/courses/ar-031.webp",
+    "thumbnail": "/assets/courses/ar-031-thumb.webp",
+    "sha256": "9ab1443d7a62a387d1f1723f11cd847ff50180a148d32f90d446b8297d231506"
+  },
+  {
+    "id": "AR-032",
+    "title": "Master in Illustrator",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-illustrator/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-19eb050e-58e2-4504-83bc-fc1863d64563.png",
+    "prompt": "An exquisite flat vector illustration of a colorful original fox among geometric botanical shapes, shown as a large vector artboard with a few crisp Bezier anchor points, a pen-tool cursor and smooth path handles visible along one curve. Off-white canvas with vibrant coral, teal and mustard palette. Clearly communicate vector drawing and illustration, not photo editing, dashboards or a person at a computer.",
+    "output": "/assets/courses/ar-032.webp",
+    "thumbnail": "/assets/courses/ar-032-thumb.webp",
+    "sha256": "057bb3bbe082aa702458397d74a3de16d46935eb1f00354411d6714d8d0d2c87"
+  },
+  {
+    "id": "AR-033",
+    "title": "Master in InDesign",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-inDesign/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-beaee60f-4e0b-4ad8-9417-408068afa9ee.png",
+    "prompt": "A sophisticated editorial design composition: an open premium art magazine with beautifully balanced image blocks, abstract typographic bars, generous margins and a restrained column grid, beside a matching booklet and print-layout proof. No readable words. Clean cream paper, burgundy and charcoal accents, tasteful overhead studio lighting. Clearly communicate publishing, page layout, typography and multi-page editorial design; no phone app screens.",
+    "output": "/assets/courses/ar-033.webp",
+    "thumbnail": "/assets/courses/ar-033-thumb.webp",
+    "sha256": "45aa725e04554c6ddeec95b60ade2f575d4dc6ab2e0ec7115abd63f89d0ba5fb"
+  },
+  {
+    "id": "AR-034",
+    "title": "Master in Maya",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-maya/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-b8e1331e-8ab9-4fad-ad15-7066693fd55a.png",
+    "prompt": "An original appealing stylized 3D explorer character in an animation rigging studio, three-quarter view, stepping into a dynamic expressive pose. One half of the character shows a clean polygon mesh, a few colored rig controls and joint markers; the rest is beautifully shaded with polished fabric materials. Subtle timeline shapes in the distant background, no readable software interface. Clearly communicate character rigging and animation.",
+    "output": "/assets/courses/ar-034.webp",
+    "thumbnail": "/assets/courses/ar-034-thumb.webp",
+    "sha256": "767a269600ae8c660c99ade7f6a241ea5d782242a0fb53f66002cebee3af50d5"
+  },
+  {
+    "id": "AR-035",
+    "title": "Master in Nuke & Silhouette",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-nuke-silhouette/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-752cf1dd-72d7-45e1-9462-a097fd3071ef.png",
+    "prompt": "A professional compositing illustration centered on a cinematic astronaut standing in a science-fiction corridor: part of the shot remains a green-screen plate with a precise cyan rotoscope contour around the actor, while the rest resolves into a fully composited glowing outer-space set. Small abstract node connections in a discreet foreground glass panel, no readable text. Clearly communicate node-based compositing, keying and rotoscoping.",
+    "output": "/assets/courses/ar-035.webp",
+    "thumbnail": "/assets/courses/ar-035-thumb.webp",
+    "sha256": "0e1398ce0ad61c1ddbc322324a31e65b0de057db5467ec1c8ada7c69145ace88"
+  },
+  {
+    "id": "AR-036",
+    "title": "Master in Photography",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-photography/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses-about-section/about-us-Photography01.jpg",
+    "output": "/assets/courses/ar-036.webp",
+    "thumbnail": "/assets/courses/ar-036-thumb.webp",
+    "sha256": "306367237827272721a1c224f178a47e3bb3ce7abf6dd4045da9cc84c48c9507"
+  },
+  {
+    "id": "AR-037",
+    "title": "Master in Photoshop",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-photoshop/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses-about-section/digital-design-about.jpg",
+    "output": "/assets/courses/ar-037.webp",
+    "thumbnail": "/assets/courses/ar-037-thumb.webp",
+    "sha256": "911d9b634a1ce15304a50e26b7e0b2ff106234aa2792eebd59e9a2c482fae512"
+  },
+  {
+    "id": "AR-038",
+    "title": "Master in Substance Painter",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-substance-painter/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-d5c9c145-23cd-4901-8b4c-a5aef8113b3c.png",
+    "prompt": "An original high-detail sci-fi helmet on a studio plinth, with half its surface neutral grey clay and the other half richly painted worn orange enamel, scratched steel and carbon-fibre materials. A stylus tip paints a luminous material stroke across the helmet; a restrained flattened UV texture sheet floats behind it. Clearly communicate 3D texture painting and PBR material creation.",
+    "output": "/assets/courses/ar-038.webp",
+    "thumbnail": "/assets/courses/ar-038-thumb.webp",
+    "sha256": "bd09371db78993ac9127d18ae7313daca939ba51f59b9187310a0dd801c36776"
+  },
+  {
+    "id": "AR-039",
+    "title": "Master in Unreal Cinematics",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-unreal-cinematics/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-d568afde-5a21-4e18-8901-cc7d5ae1865f.png",
+    "prompt": "A breathtaking original real-time cinematic establishing shot of a lone explorer on a rain-soaked elevated walkway overlooking a futuristic city at blue hour, volumetric amber light and atmospheric depth. In the near foreground, a discreet virtual cinema-camera body and framing guides suggest cinematic camera composition rather than gameplay. Strong storytelling, camera, lighting and environment focus.",
+    "output": "/assets/courses/ar-039.webp",
+    "thumbnail": "/assets/courses/ar-039-thumb.webp",
+    "sha256": "d92ad407f8876e980fd7c33b627718d7b65202ee5890d17ee2400cd7e9285a4b"
+  },
+  {
+    "id": "AR-040",
+    "title": "Master in Unreal Engine",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-unreal-engine/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/unreal-engine-course-game-development.jpg",
+    "output": "/assets/courses/ar-040.webp",
+    "thumbnail": "/assets/courses/ar-040-thumb.webp",
+    "sha256": "92f31ea4c6c30d439a42da489807ff30830cb01b8c57200ff20a79d3becb456a"
+  },
+  {
+    "id": "AR-041",
+    "title": "Master in Zbrush",
+    "kind": "generated-illustration",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/short-term-courses/master-in-zbrush/",
+    "imageSource": "/Users/deshdeepaksingh/.codex/generated_images/01a1a50e-a20e-72f0-bead-ea8ac991f8a4/exec-b5c8da82-8959-4e4e-938e-70d373d06989.png",
+    "prompt": "A richly detailed original fantasy creature bust being digitally sculpted, matte warm-grey clay with intricate face anatomy, curved horns, fine tool marks and flowing sculptural shapes. A stylus and a few subtle brush-cursor rings near the cheek demonstrate sculpting. Dark charcoal studio background with warm rim light, no game battle, no printed UI. Clearly communicate high-polygon digital sculpting.",
+    "output": "/assets/courses/ar-041.webp",
+    "thumbnail": "/assets/courses/ar-041-thumb.webp",
+    "sha256": "1b922f1e104a8708a3040927ace15b5c02218a361029bc2dc7544eb6292f5c46"
+  },
+  {
+    "id": "AR-042",
+    "title": "AI Motion Graphics & Design",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/ai-courses/ai-motion-graphics-and-design/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/ai-courses/learning-motion-graphics.avif",
+    "output": "/assets/courses/ar-042.webp",
+    "thumbnail": "/assets/courses/ar-042-thumb.webp",
+    "sha256": "f44227acb322d4eed98ecef49fe913b3c35597bbe8f799ed84aee54901101ec4"
+  },
+  {
+    "id": "AR-043",
+    "title": "AI Video Editing",
+    "kind": "official-arena",
+    "courseSource": "https://www.arena-multimedia.com/our-courses/ai-courses/ai-video-editing/",
+    "imageSource": "https://assets.arena-multimedia.com/images/courses/ai-courses/learning-video-editing.avif",
+    "output": "/assets/courses/ar-043.webp",
+    "thumbnail": "/assets/courses/ar-043-thumb.webp",
+    "sha256": "66d7e0374c673a5cf2c2fa4964bc67fc8a92ebd994f651a96317bca83e9c36e1"
+  }
+]
